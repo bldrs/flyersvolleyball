@@ -1,0 +1,28 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.uk-h1, .uk-h2, .uk-h3, .uk-h4, .uk-h5, .uk-h6, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 200;
+}
+
+.uk-heading-primary {
+  text-transform: uppercase;
+}
+
+.wrap::before {
+	position: absolute;
+	height: 100vh;
+	width: 100vw;
+	content: '';
+	z-index: 1;
+	background-color: rgba(41,145,198,0.4);
+}
+.lead {
+	font-size: 1.175em;
+	font-weight: 300;
+}
+.uk-logo img {
+	height: 28px;
+}
