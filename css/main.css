@@ -24,5 +24,6 @@ body {
 	font-weight: 300;
 }
 .uk-logo img {
-	height: 28px;
+	max-width: 240px;
+	margin-bottom: 24px;
 }
