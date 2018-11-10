@@ -19,10 +19,12 @@ body {
 	z-index: 1;
 	background-color: rgba(41,145,198,0.4);
 }
+
 .lead {
 	font-size: 1.175em;
 	font-weight: 300;
 }
+
 .uk-logo img {
 	max-width: 240px;
 	margin-bottom: 24px;
